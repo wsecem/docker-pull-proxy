@@ -1,1 +1,1 @@
-homeassistant/home-assistant:stable registry.cn-hangzhou.aliyuncs.com/dockmy/home-assistant:stable
+homeassistant/home-assistant:stable crpi-70te3t18ocyw121h.cn-shanghai.personal.cr.aliyuncs.com/dockmy/home-assistant:stable
